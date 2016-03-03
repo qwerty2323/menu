@@ -1,4 +1,3 @@
 # Menu
 
-This is an app about :food:
-
+This is an app about :pizza: :hamburger: and :fries:
